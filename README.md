@@ -1,2 +1,2 @@
-# DMADN
-Unlabeled images used in DMADN
+# DMDN
+Unlabeled images used in DMDN
